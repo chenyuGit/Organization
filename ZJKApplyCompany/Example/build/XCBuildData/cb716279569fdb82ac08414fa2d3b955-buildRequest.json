@@ -1,0 +1,84 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9853a735b3dbcb86fa532787dbbe741ba1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982200cda7c6f7f14d78a6dd5e77c90274"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98483755fb554f74e4d0fbe4bcd983ebe4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fb9b69652dcc61b73b668789cc187643"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984b66627581f014928b58fa8e742c39bd"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988cc9286addbac7e4dfb2bcfefa2147d6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bc0a61213561485d9963185eafcfecf2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989cc4d91a7693f3a80f3f913bb3986209"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987d07d30251b16f9e3707df075100f8ba"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9871c8ec9e6efd7d015483d8de8fb8523f"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980f99fda1382322c5a8612220eb574b40"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98eb36c59ff560c27eb84aea458074adcb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fa2e43183734e48231e71168c0841a74"
+    }
+  ],
+  "containerPath" : "/Users/chenyu/ZJKApplyCompany/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/chenyu/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/chenyu/Library/Developer/Xcode/DerivedData/Pods-efjnylthmvhskogwjgurazllglcg/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/chenyu/Library/Developer/Xcode/DerivedData/Pods-efjnylthmvhskogwjgurazllglcg/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
